@@ -727,7 +727,8 @@ You've successfully set up a complete CI/CD pipeline! Now whenever you:
 3. Jenkins automatically builds Docker image
 4. Jenkins automatically deploys new version
 5. Your website updates in seconds!
----
+6. 
+<img width="1830" height="957" alt="Screenshot 2026-06-19 180401" src="https://github.com/user-attachments/assets/839e73ce-f586-4453-9605-f7c0884dd796" />
  
 ## Next Steps (Advanced)
 - Set up HTTPS with Let's Encrypt
